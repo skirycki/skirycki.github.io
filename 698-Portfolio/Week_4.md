@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: 
 title: "Week 4"
 date: 2017-01-26
 categories:
