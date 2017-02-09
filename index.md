@@ -16,3 +16,4 @@ _this is some text_
 1. [Week 2 blog](698-Portfolio/Week_2.html)
 2. [Week 3 blog](698-Portfolio/Week_3.html)
 3. [Week 4 blog](698-Portfolio/Week_4.html)
+4. [Week 6 blog](698-Portfolio/Week_6.html)
