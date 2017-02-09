@@ -15,35 +15,5 @@ The projects done by Wilkens and by Gregory and Hardie are good examples of work
 
 As I said, the results of the work done by Wilkens and Gregory and Hardie did not surprise me. I was even initially tempted to dismiss the work as unimpressive, but after additional reflection, I concluded that their results have value. The value develops because the authors worked with such large groups of text. The authors used the new tools and techniques to analyze more text than unaided human scholars could process. With that substantial body of evidence to support their conclusions, the authors' work serves to substantiate stories about a version of the past.      
 
-
-potentially useful or useless about GIS in humanities scholarship,
-
-
-
-
-Coop
-
-
-
-Possible objections
-Style over substance
-Don't know how to evaluate
-
-Critics
-Thoughtful approach
-Visualization requires explanation
-Map limit but text also flawed
-GIS becomes more expressive
-How do you account for incomplete information
-Place change over time how to represent
-
-
-
-
-
-
-P 29 digital history versus spatial
-30 definition
-31 bend tools
-33 34 like add multimedia not just map
-35 more than GIS
+Bodenhamer and Knowles both bring up potential limitations to GIS for scholarship by pointing out that GIS can be too quantitative and lack the human element. Bodenhamer and Knowles suggest similar approaches to overcome the limitations.
+They talk about GIS projects that incorporate other technologies such as audio and video recording and virtual reality. In these projects, GIS again seems to be an evolutionary rather than revolutionary tool. It is part of the humanities' ongoing (even if at times reluctant) embrace of the digital.
