@@ -1,10 +1,10 @@
 ---
-layout:
+layout: default
 title: "Week 3"
 date: 2017-01-19
 categories:
 ---
-**Week 3**
+## Week 3
 
 I initially had trouble wrapping my mind around the concept of using a website, Twitter, or a blog to develop a professional identity as an academic. Not having worked in a field where I needed a professional identity apart from the one the corporation provided for me, I tend to think of maintaining a website or blog as something one does for a hobby, not as part of work. The readings were therefore enlightening to me. While going through them, it clicked with me that, in one sense, academics are professional writers and thus might benefit from the opportunity to use additional platforms to get their writing out into the world.
 

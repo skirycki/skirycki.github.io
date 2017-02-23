@@ -3,10 +3,10 @@ layout:
 title: "CV"
 date: 2017-01-26
 ---
-**Scott Kirycki\
-**kirycksc@umich.edu
+# Scott Kirycki
+#### kirycksc@umich.edu
 
-**SUMMARY:**
+## SUMMARY:
 
 **Document Management / Administrative Professional** with many years
 experience; key skills are problem solving, organizing, and
@@ -23,9 +23,9 @@ schedule and on budget.
 at the University of Michigan School of Information – expected
 completion Spring 2017.
 
-**EXPERIENCE:**
+## EXPERIENCE:
 
-***UMSI Internship***
+**UMSI Internship**
 
 University of Michigan School of Information 5/2016 - present
 
@@ -35,28 +35,28 @@ University of Michigan School of Information 5/2016 - present
     photos, films, and text that will be included in an app designed to
     celebrate the bicentennial of the University of Michigan
 
-***UMSI Alternative Spring Break ***
+**UMSI Alternative Spring Break**
 
 Detroit Historical Society 3/2016
 
 -   Helped to organize a collection of video tapes and transfer them to
     archival storage
 
-***UMSI Service Day***
+**UMSI Service Day**
 
 Detroit Sound Conservancy 1/2016
 
 -   Site Leader for a team that organized the periodicals and clippings
     collection
 
-***Reader***
+**Reader**
 
 Measurement Incorporated, Wyoming, MI 4/2015 to 7/2015, 12/2015
 
 -   Responsible for handscoring student responses to standardized test
     questions
 
-***Data Entry / Customer Specialist ***
+**Data Entry / Customer Specialist**
 
 KForce, Grand Rapids, MI 8/2014 to 11/2014, 1/2015 to 3/2015, 7/2015 to
 8/2015
@@ -72,7 +72,7 @@ KForce, Grand Rapids, MI 8/2014 to 11/2014, 1/2015 to 3/2015, 7/2015 to
 
 -   Entered data from test forms at NHA
 
-***Project Manager***
+**Project Manager**
 
 Pitney Bowes Management Services, Grand Rapids, MI 5/2010 to 4/2013
 
@@ -88,7 +88,7 @@ Pitney Bowes Management Services, Grand Rapids, MI 5/2010 to 4/2013
 -   Managed one long-term project and several short-term projects
     simultaneously
 
-***Department Manager***
+**Department Manager**
 
 Pitney Bowes Management Services, Grand Rapids, MI 12/2008 to 5/2010
 
@@ -99,7 +99,7 @@ Pitney Bowes Management Services, Grand Rapids, MI 12/2008 to 5/2010
 -   Responsible for staffing, schedules, cost control, and personnel
     matters such as employee evaluations and time entry
 
-***Supervisor ***
+**Supervisor**
 
 Compulit, Inc. (purchased by Pitney Bowes in 2005), Grand Rapids, MI
 3/2003 to 12/2008
@@ -114,7 +114,7 @@ Compulit, Inc. (purchased by Pitney Bowes in 2005), Grand Rapids, MI
 -   Helped the department manager adjust staffing, schedule work, and
     control costs
 
-***Coder / QCer***
+**Coder / QCer**
 
 Compulit, Inc., Grand Rapids, MI 9/1996 to 3/2003
 
@@ -123,7 +123,7 @@ Compulit, Inc., Grand Rapids, MI 9/1996 to 3/2003
 
 -   QCed the work done by other team members
 
-**EDUCATION:**
+## EDUCATION:
 
 -   MA, English, Clark University, Worcester, MA
 

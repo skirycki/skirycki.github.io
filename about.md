@@ -1,8 +1,11 @@
 ---
-layout:
+layout: default
 title: "About"
 date: 2017-01-26
 ---
-**About**
 
-[CV](CV.html)
+**Who is the handsome devil who made this website?**
+
+![Picture of Scott Kirycki smiling slightly.](/images/me.jpg)
+
+[Let me see that CV!](CV.html)

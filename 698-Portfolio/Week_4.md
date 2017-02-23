@@ -1,10 +1,10 @@
 ---
-layout: 
+layout: default
 title: "Week 4"
 date: 2017-01-26
 categories:
 ---
-**Week 4**
+## Week 4
 
 While working on a PowerPoint presentation this week, I thought about the role design was playing in the scholarly output I produced. I have no formal training in design, so I consider my design approach to be one of amateurism driven by instinct, abetted by technology, and constrained by the amount of time I have available to complete a project.
 

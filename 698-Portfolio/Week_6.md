@@ -1,10 +1,10 @@
 ---
-layout:
+layout: default
 title: "Week 6"
 date: 2017-02-09
 categories:
 ---
-**Week 6**
+## Week 6
 
 I found Richard White's piece helpful for starting to get a handle on what is potentially useful about GIS in humanities scholarship. I particularly appreciated the way he described the Spatial History Project as a humble attempt to do history in a different way. I appreciated this because the projects that White and the other authors cover seem to me to be an evolution in scholarship, not some radical new thing that breaks completely with the scholarship that came before. Bodenhamer's summary of the development of the spatial humanities also presents an evolutionary rather than a revolutionary process.
 
@@ -17,3 +17,7 @@ As I said, the results of the work done by Wilkens and Gregory and Hardie did no
 
 Bodenhamer and Knowles both bring up potential limitations to GIS for scholarship by pointing out that GIS can be too quantitative and lack the human element. Bodenhamer and Knowles suggest similar approaches to overcome the limitations.
 They talk about GIS projects that incorporate other technologies such as audio and video recording and virtual reality. In these projects, GIS again seems to be an evolutionary rather than revolutionary tool. It is part of the humanities' ongoing (even if at times reluctant) embrace of the digital.
+
+Possible objections
+Style over substance
+Don't know how to evaluate
