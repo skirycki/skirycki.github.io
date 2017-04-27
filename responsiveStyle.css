@@ -95,7 +95,8 @@ div.WordSection1
 ol
 	{margin-bottom:0in;}
 ul
-	{margin-bottom:0in;}
+	{list-style-type: none;
+		margin-bottom:0in;}
 
 .rantText {background-color: rgba(220,20,60,.65);}
 
@@ -138,7 +139,7 @@ animation:animated_div 5s 3;
 -o-animation:animated_div 5s 3;
 }
 
-@keyframes animated_div
+/*@keyframes animated_div
 {
 0%		{transform: rotate(0deg);left:0px;}
 25%		{transform: rotate(20deg);left:0px;}
@@ -177,7 +178,7 @@ animation:animated_div 5s 3;
 70%  {transform: rotate(0deg);left:500px;}
 100% {transform: rotate(-360deg);left:0px;}
 }
-
+*/
 nav a{
 	background-color: rgba(119,136,153,.75);}
 
