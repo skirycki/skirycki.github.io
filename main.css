@@ -34,6 +34,7 @@ ul, ol, dl, figure,
  * Images
  */
 img {
+  height: 200px;
   max-width: 50%;
   vertical-align: middle; }
 
