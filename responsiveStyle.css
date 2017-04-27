@@ -94,10 +94,11 @@ div.WordSection1
  /* List Definitions */
 ol
 	{margin-bottom:0in;}
-ul
+.ull
 	{list-style-type: none;
 		margin-bottom:0in;}
-
+ul
+	{margin-bottom:0in;}
 .rantText {background-color: rgba(220,20,60,.65);}
 
 #rantTitle {text-align: center;
