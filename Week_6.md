@@ -8,7 +8,7 @@ categories:
 
 **Readings**
 
-I found Richard White's piece helpful for starting to get a handle on what is potentially useful about GIS in humanities scholarship. I particularly appreciated the way he described the Spatial History Project as a humble attempt to do history in a different way. I appreciated this because the projects that White and the other authors cover seem to me to be an evolution in scholarship, not some radical new thing that breaks completely with the scholarship that came before. Bodenhamer's summary of the development of the spatial humanities also presents an evolutionary rather than a revolutionary process.
+I found Richard White's piece helpful for starting to get a handle on what is potentially useful about GIS in humanities scholarship. I particularly appreciated the way in which he described the Spatial History Project as a humble attempt to do history in a different way. I appreciated this because the projects that White and the other authors cover seem to me to be an evolution in scholarship, not some radical new thing that breaks completely with the scholarship that came before. Bodenhamer's summary of the development of the spatial humanities also presents an evolutionary rather than a revolutionary process.
 
 White states that "our main focus is on visualizations, and by visualizations I mean something more than maps, charts, or pictures." This illustrates the evolutionary process. Maps, charts, and pictures have long been tools in scholarly work, but as White indicates, the application of computer processing power to these tools has allowed them to incorporate things such as the depiction of movement and changes that happened over time. GIS has the potential to     
 be what White calls a new means of doing research: "it generates questions that might otherwise go unasked, it reveals historical relations that might otherwise go unnoticed, and it undermines, or substantiates, stories upon which we build our own versions of the past."
@@ -20,12 +20,14 @@ As I said, the results of the work done by Wilkens and Gregory and Hardie did no
 Bodenhamer and Knowles both bring up potential limitations to GIS for scholarship by pointing out that GIS can be too quantitative and lack the human element. Bodenhamer and Knowles suggest similar approaches to overcome the limitations.
 They talk about GIS projects that incorporate other technologies such as audio and video recording and virtual reality. In these projects, GIS again seems to be an evolutionary rather than revolutionary tool. It is part of the humanities' ongoing (even if at times reluctant) embrace of the digital.
 
-**Example**
+**Examples**
+
+To get a sense of how GIS tools operate, I followed the *The Programming Historian* tutorial on Google Maps and created a simple map showing places I have been since moving to Ann Arbor as well as driving routes from Ann Arbor to those places.
 
 ![Image of Map](/images/GIS_Example.jpg)
 
-Possible objections
-Style over substance
-Don't know how to evaluate
+I also used the *Making a Map with QGIS* tutorial to create the US county map with railroad data.
 
-Please write a response essay on what you find potentially useful or useless about GIS in humanities scholarship,
+![QGIS](/images/QGIS.png)
+
+The GIS tools were straight-forward to use for the tasks outlined in the tutorials; however, I can see that the tools (particularly QGIS) have a steep learning curve for functions that are more sophisticated (and potentially valuable to humanities scholars). The tools thus present a dilemma for scholars: is the time needed to learn the tools worth it for the potential results? Based on the examples of Humanities GIS scholarship that we looked at in class, I hesitate to say "Yes." The projects had maps that looked good and presented interesting data, but they were often lacking in the interpretation and insight that is expected in humanities scholarship. It is as if the creators left the interpretive work to the users of the maps. This is a further indication of GIS producing an evolution rather than a revolution in scholarship.
