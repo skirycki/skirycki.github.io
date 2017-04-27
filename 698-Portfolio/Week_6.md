@@ -22,7 +22,7 @@ They talk about GIS projects that incorporate other technologies such as audio a
 
 **Example**
 
-![Image of Map](698-Portfolio/GIS_Example.jpg)
+![Image of Map](GIS_Example.jpg)
 
 Possible objections
 Style over substance
