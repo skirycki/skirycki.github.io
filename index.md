@@ -11,9 +11,10 @@ date: 2017-01-19
 **Master of Science in Information Candidate (2017) at the University of Michigan School of Information**
 
 _also budding digital humanist - please peruse my musings_
+[musings index](musings_index.html)
 
-These are blog posts I've written for HIST 698-002 - Introduction to Digital Humanities
+<!-- These are blog posts I've written for HIST 698-002 - Introduction to Digital Humanities
 * [Values for Digital Humanities](698-Portfolio/Week_2.html)
 * [Social Media and Professional Identity](698-Portfolio/Week_3.html)
 * [Design and Scholarship](698-Portfolio/Week_4.html)
-* [GIS and the Humanities](698-Portfolio/Week_6.html)
+* [GIS and the Humanities](698-Portfolio/Week_6.html) -->
