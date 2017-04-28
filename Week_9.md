@@ -31,3 +31,5 @@ I say "perhaps" because, after reading about text mining projects and working wi
 Qualitative interpretation of the text mining results could also be tricky. In her lecture, Guberek described how the team needed to work with former police women who brought insider knowledge of the way the Guatemalan National Police nuanced the vocabulary that they used in their reports. As with many of the text mining projects that we discussed in class, text mining of the Police Archives would require extensive existing knowledge of the corpus on the part of those making the interpretation.   
 
 Guberek also pointed out an aspect of the documents that might challenge the qualitative interpretation of the text mining. She described the language in the documents as being crafted to distort the truth about the violence that was occurring in Guatemala and even to conceal it through silence. It would be interesting to see if text mining could clarify the distortions or fill in the silence.
+
+[Return to musings index](musings_index.html)

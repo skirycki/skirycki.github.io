@@ -31,3 +31,5 @@ I also used the *Making a Map with QGIS* tutorial to create the US county map wi
 ![QGIS](/images/QGIS.png)
 
 The GIS tools were straight-forward to use for the tasks outlined in the tutorials; however, I can see that the tools (particularly QGIS) have a steep learning curve for functions that are more sophisticated (and potentially valuable to humanities scholars). The tools thus present a dilemma for scholars: is the time needed to learn the tools worth it for the potential results? Based on the examples of Humanities GIS scholarship that we looked at in class, I hesitate to say "Yes." The projects had maps that looked good and presented interesting data, but they were often lacking in the interpretation and insight that is expected in humanities scholarship. It is as if the creators left the interpretive work to the users of the maps. This is a further indication of GIS producing an evolution rather than a revolution in scholarship.
+
+[Return to musings index](musings_index.html)
