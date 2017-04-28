@@ -10,7 +10,7 @@ categories:
 
 I installed MALLET and used it to topic model the 400 movie review text files that I previously loaded into Voyant. It took only a couple of seconds to make the .mallet file and ten seconds to complete the train-topics operation. I was impressed by the speed of the process of going from text files to results. I realize that the number of files was small in comparison to the huge amounts that need to be processed in full-scale topic modeling projects, and I did not have to clean the data before getting started; still, it is encouraging to get results that quickly when experimenting with a new tool.      
 
-###Keys
+### Keys
 ![MALLET Keys](/images/mallet.png)
 
 I was less encouraged when I got to the part in the tutorial that explained that I would need to work back and forth between the Keys and Composition files to see which movie review files had topics in common.
