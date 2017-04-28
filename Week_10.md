@@ -8,7 +8,16 @@ categories:
 
 **Experimentation**
 
-I installed MALLET and used it to topic model the 400 movie review text files that I previously loaded into Voyant. It took only a couple of seconds to make the .mallet file and ten seconds to complete the train-topics operation. I was impressed by the speed of the process of going from text files to results. I realize that the number of files was small in comparison to the huge amounts that need to be processed in full-scale topic modeling projects, and I did not have to clean the data before getting started; still, it is encouraging to get results that quickly when experimenting with a new tool.      
+Installing and running MALLET according to *The Programming Historian* tutorial went smoothly overall. The biggest challenge proved to be remembering to change the \ to / since I have a Mac.
+
+Because the scroll bar was not visible, I also initially missed that this line of code continues:
+
+![MALLET scroll bar part 1](/images/mallet3.png)
+![MALLET scroll bar part 2](/images/mallet4.png)
+
+I did not type the entire line the first time, and got an error message.
+
+I used MALLET to topic model the 400 movie review text files that I previously loaded into Voyant. It took only a couple of seconds to make the .mallet file and ten seconds to complete the train-topics operation. I was impressed by the speed of the process of going from text files to results. I realize that the number of files was small in comparison to the huge amounts that need to be processed in full-scale topic modeling projects, and I did not have to clean the data before getting started; still, it is encouraging to get results that quickly when experimenting with a new tool.      
 
 Keys ![MALLET Keys](/images/mallet.png)
 
