@@ -20,11 +20,7 @@ Changes in how credit is given for digital history projects have implications fo
 
 Fair peer review also requires that those reviewing digital history projects have knowledge of and experience with digital methods to go along with their knowledge of history. Given how young some of the methods are, it is not surprising that it could be difficult to find reviewers with the requisite experience. Potential difficulty, however, does not remove the need to make the effort to find the right reviewers. Additionally, the literature review and methodology sections that I suggest above would help to educate reviewers to fill in the gaps.
 
-connectedness sustainability
 
-peer review oopne to new forms but not wowed by style over
-build critiacl discourse and best practives for
-best practice for comparing new to old ways
 
 
 [Return to musings index](musings_index.html)
