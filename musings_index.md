@@ -11,3 +11,4 @@ These are blog posts I have written for HIST 698-002 - Introduction to Digital H
 * [Text Mining and Human Rights Archives](Week_9.html)
 * [Topic Modeling Goes to the Movies](Week_10.html)
 * [An Analysis of Network Analysis](Week_11.html)
+* [Critiquing Digital History Projects](Week_12.html)
