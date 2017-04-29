@@ -12,3 +12,4 @@ These are blog posts I have written for HIST 698-002 - Introduction to Digital H
 * [Topic Modeling Goes to the Movies](Week_10.html)
 * [An Analysis of Network Analysis](Week_11.html)
 * [Critiquing Digital History Projects](Week_12.html)
+* [A Review of The Negro Travelers' Green Book website](Week_14.html)
